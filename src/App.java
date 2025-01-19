@@ -26,7 +26,7 @@ public class App {
                     System.out.println("4 - CARRÉ");
                     break;
 
-                    case 5:
+                    case 0:
                         System.out.println("OBRIGADO VOLTE SEMPRE!!!");
                         scanner.close();
                         return; // Encerra o programa
