@@ -10,8 +10,6 @@ O **SteakHouse Gourmet - V01** é uma aplicação desenvolvida para otimizar e g
 - Cadastro de pratos e ingredientes;  
 - Gestão de pedidos e mesas;  
 - Controle de estoque e fluxo de caixa.  
-# 🥩 SteakHouse Gourmet - V01  
-
 
 ---
 
